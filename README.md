@@ -1,2 +1,0 @@
-# torbamda
-web static page
